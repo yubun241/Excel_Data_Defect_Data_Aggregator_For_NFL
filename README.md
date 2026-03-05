@@ -1,0 +1,2 @@
+# Excel_Data_Defect_Data_Aggregator_For_NFL
+Excelファイルから欠点関連データを自動抽出・集計し、統合レポートを生成するPythonツールです。   複数のExcelファイルを一括処理し、欠点の種類別カウントとヘッダー情報を効率的にまとめます。
